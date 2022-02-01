@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
 <h3 align="center">A passionate Software engineer from egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrmuhamed200&label=Profile%20views&color=0e75b6&style=flat" alt="amrmuhamed200" /> </p>
-
 - 🌱 I’m currently learning **React, NextJs, GraphQL**
 
 - 👨‍💻 All of my projects are available at [www.audaxdev.com](www.audaxdev.com)
