@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
 <h3 align="center">A passionate Software engineer from egypt</h3>
 
-- 🌱 I’m currently learning **Nestjs NextJs, GraphQL**
+- 🌱 I’m currently learning **Nestjs NextJs, GraphQL, Jest**
 
 - 👨‍💻 All of my projects are available at [www.audaxdev.com](www.audaxdev.com)
 
